@@ -1,3 +1,5 @@
+<div align="justify"> 
+  
 # 1.-Machine-Learning
 Linear Regression and FDR for Trading Data
 
@@ -30,3 +32,4 @@ Steps
 
 Contributions
 - Feel free to submit pull requests or start an issue if you find a bug or have any suggestions for improving this notebook.
+</div>
