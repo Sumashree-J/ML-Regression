@@ -1,7 +1,7 @@
 <div align="justify"> 
   
 # 1.-Machine-Learning
-Linear Regression and FDR for Trading Data
+Linear Regression and False Discovery Rate (FDR) for Trading Data
 
 This notebook offers an in-depth explanation of linear regression and False Discovery Rate (FDR) control. It highlights the significance of relationships between the dependent variable (Estimated Share Price) and other available variables in the dataset, while controlling for false positives to ensure accurate conclusions.
 
